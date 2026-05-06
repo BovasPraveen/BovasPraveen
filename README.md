@@ -20,8 +20,8 @@ I enjoy creating scalable and user-friendly web applications while continuously 
 📧 Email: bovaspraveensjcetcse@gmail.com
 📱 Phone: +91 73396 27409
 💻 GitHub: github.com/BovasPraveen
-🌐 Portfolio: Your Portfolio Link
-🔗 LinkedIn: Your LinkedIn Link
+🌐 Portfolio:https://bovaspraveen.github.io/Portfolionew/
+🔗 LinkedIn: www.linkedin.com/in/bovaspraveen
 🎯 Professional Summary
 
 Full Stack Developer and final-year Computer Science student (CGPA 8.3/10.0, ranked among the Top 3 in the department) with practical experience in developing React/JavaScript frontends and Java Spring Boot backend applications.
